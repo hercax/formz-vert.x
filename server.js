@@ -2,7 +2,7 @@ load('vertx.js');
 
 var webServerConf = {
 	web_root: '..\\formz\\',
-	port: 80,
+	port: 3000,
 	host: 'localhost',
 	bridge: true,
 	permitted: []
